@@ -8,7 +8,9 @@
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white
 )](https://linktr.ee/nicaohe) 
 
-![NicollasHolz GitHub stats](https://github-readme-stats.vercel.app/api?username=NicollasHolz&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasHolz)]()
+![NicollasHolz GitHub stats](https://github-readme-stats.vercel.app/api?username=NicollasHolz&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasHolz)]()
 
 ## Tecnologias que estou aprendendo!
 
