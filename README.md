@@ -5,12 +5,13 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white
 )](https://www.twitch.tv/nicaohe) 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/UEC7wVBAx6) 
-[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white
-)](https://linktr.ee/nicaohe) 
+[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/nicaohe) 
+[![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicollas-holz-eberhardt-490327232/)
+
 
 ![NicollasHolz GitHub stats](https://github-readme-stats.vercel.app/api?username=NicollasHolz&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasHolz)]()
+
 
 ## Tecnologias que estou aprendendo!
 
