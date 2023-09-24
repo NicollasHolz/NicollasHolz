@@ -1,4 +1,4 @@
-### Hi, my name is Nicollas and I will starting my carrer in programation. At the moment I study computer engineering in University of Santa Maria (UFSM) in Brazil!
+### Hi, my name is Nicollas and I will starting my carrer in programation. At the moment I study computer Science in Universidade Regional do Noroeste do Estado do Rio Grande do Sul (UNIJUÍ) in Brazil!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/nicoll4sholz/) 
