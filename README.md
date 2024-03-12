@@ -1,4 +1,4 @@
-### Hi, my name is Nicollas and I will starting my carrer in programation. At the moment I study computer Science in Universidade Regional do Noroeste do Estado do Rio Grande do Sul (UNIJUÍ) in Brazil!
+### Hi, my name is Nicollas and I will starting my programming career. At the moment I study computer Science in Universidade Regional do Noroeste do Estado do Rio Grande do Sul (UNIJUÍ) in Brazil!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicoll4sholz/) 
 [![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicollas-holz-eberhardt-490327232/)
