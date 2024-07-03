@@ -33,6 +33,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nicoll4sholz/) 
 [![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicollas-holz-eberhardt-490327232/)
-[![Gmail Badge](https://img.shields.io/badge/-nicollasholz02@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicollasholz02@gmail.com)](mailto:nicollasholz02@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-nicollasholz02@gmail.com-006bed?style=flat&logo=Gmail&logoColor=white&link=mailto:nicollasholz02@gmail.com)](mailto:nicollasholz02@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/NicollasHolz?label=follow&style=social)](https://github.com/NicollasHolz)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+5555996535396)
